@@ -5,14 +5,15 @@ and a Annotation is added to the Map
 
 
 ## Built With
-Xcode 10.1
-Swift 4.2
-MapKit
+Xcode 10.1, Swift 4.2, MapKit
 
 ## Installing
 Download Zip file and open AddLocationOnMapWithLongTouch.xcodeproj
+
 Run app 
+
 Touch and hold on a map location to add a pin there
+
 Click on the pin for further information
 
 ## License
