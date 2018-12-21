@@ -1,7 +1,8 @@
 # AddLocationOnMapWithLongTouch
 This is an example app for a MapKit Implementation.
-It adds an LongGesture to a MapView, the UIView lcoation is converted to a MapLocation
-and a Annotation is added to the Map
+It adds a long gesture to a MapView, the UIView lcoation is converted to a MapLocation
+and a Annotation is added to the Map.
+
 
 
 ## Built With
